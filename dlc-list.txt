@@ -25,7 +25,7 @@ Al-Qari'ah<url>https://github.com/karimahasna/QAR/raw/master/al-qariah.dlc
 At-Takasur<url>https://github.com/karimahasna/QAR/raw/master/at-takasur.dlc
 Al-'Asr<url>https://github.com/karimahasna/QAR/raw/master/al-asr.dlc
 Al-Humazah<url>https://github.com/karimahasna/QAR/raw/master/al-humazah.dlc
-Al-Fiil<url>https://github.com/karimahasna/QAR/blob/master/al-fiil.dlc
+Al-Fiil<url>https://github.com/karimahasna/QAR/raw/master/al-fiil.dlc
 Quraisy<url>https://github.com/karimahasna/QAR/raw/master/quraisy.dlc
 Al-Ma'un<url>https://github.com/karimahasna/QAR/raw/master/al-maun.dlc
 Al-Kautsar<url>https://github.com/karimahasna/QAR/raw/master/al-kautsar.dlc
