@@ -1,4 +1,4 @@
-n-Naba'<url>https://github.com/karimahasna/QAR/raw/master/an-naba.dlc
+An-Naba'<url>https://github.com/karimahasna/QAR/raw/master/an-naba.dlc
 An-Nazi'at<url>https://github.com/karimahasna/QAR/raw/master/an-naziat.dlc
 'Abasa<url>https://github.com/karimahasna/QAR/raw/master/abasa.dlc
 At-Takwir<url>https://github.com/karimahasna/QAR/raw/master/at-takwir.dlc
